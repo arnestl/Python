@@ -302,6 +302,7 @@
 ## Financial
   * [Equated Monthly Installments](https://github.com/TheAlgorithms/Python/blob/master/financial/equated_monthly_installments.py)
   * [Interest](https://github.com/TheAlgorithms/Python/blob/master/financial/interest.py)
+  * [Put Option Yield](https://github.com/TheAlgorithms/Python/blob/master/financial/put_option_yield.py)
 
 ## Fractals
   * [Julia Sets](https://github.com/TheAlgorithms/Python/blob/master/fractals/julia_sets.py)
